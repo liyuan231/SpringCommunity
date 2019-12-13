@@ -1,4 +1,4 @@
-package press.liyuan.community;
+package press.liyuan.community.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
